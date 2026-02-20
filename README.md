@@ -19,6 +19,8 @@ Before running:
 * LiveKit API Key + Secret
 * SIP trunk ID
 
+you can setup your SIP trunk with Teler and Livekit by following the [Guide.](LiveKit_Cloud_Frejun_SIP_Integration_Guide.pdf)
+
 ---
 
 ## Setup
@@ -113,3 +115,4 @@ If issue persists, verify:
 * SIP authentication mismatch
 
 ---
+[MIT License Copyright (c) 2026 FreJun](LICENSE)
